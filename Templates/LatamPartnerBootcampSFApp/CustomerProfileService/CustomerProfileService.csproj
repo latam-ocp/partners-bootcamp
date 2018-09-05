@@ -2,9 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <IsServiceFabricServiceProject>True</IsServiceFabricServiceProject>
-    <RuntimeIdentifier>win7-x64</RuntimeIdentifier>
-    <TargetLatestRuntimePatch>False</TargetLatestRuntimePatch>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,7 +10,6 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
-    <PackageReference Include="Microsoft.ServiceFabric.AspNetCore.Kestrel" Version="3.2.176" />
   </ItemGroup>
 
 </Project>

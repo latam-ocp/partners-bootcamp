@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A6875245-37D8-4BDF-A0CD-EF994C000E3C}|Default">
+  <MonoDevelop.Ide.ItemProperties.CustomerProfileService PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomerProfileService/PackageRoot/Config/Settings.xml">
+    <Files>
+      <File FileName="CustomerProfileService/PackageRoot/ServiceManifest.xml" Line="1" Column="1" />
+      <File FileName="CustomerProfileService/PackageRoot/Config/Settings.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>LatamPartnerBootcampSFApp/LatamPartnerBootcampSFApp.sfproj</String>
+    <String>CustomerProfileService/CustomerProfileService.csproj</String>
+  </DisabledProjects>
+</Properties>
