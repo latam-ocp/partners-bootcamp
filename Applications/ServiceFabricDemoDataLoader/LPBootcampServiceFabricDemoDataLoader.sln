@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPBootcampServiceFabricDemoDataLoader", "LPBootcampServiceFabricDemoDataLoader\LPBootcampServiceFabricDemoDataLoader.csproj", "{AB52C372-5D6A-43D7-8B71-0BC9C0F9E2D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPBootcampServiceFabricDemoDataLoaderCore", "LPBootcampServiceFabricDemoDataLoaderCore\LPBootcampServiceFabricDemoDataLoaderCore.csproj", "{90A0128F-5C0E-48E8-BA4B-58B679C34DC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB52C372-5D6A-43D7-8B71-0BC9C0F9E2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB52C372-5D6A-43D7-8B71-0BC9C0F9E2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB52C372-5D6A-43D7-8B71-0BC9C0F9E2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB52C372-5D6A-43D7-8B71-0BC9C0F9E2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A0128F-5C0E-48E8-BA4B-58B679C34DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A0128F-5C0E-48E8-BA4B-58B679C34DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A0128F-5C0E-48E8-BA4B-58B679C34DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A0128F-5C0E-48E8-BA4B-58B679C34DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A52D8108-4671-4212-865F-B6BB76C73E95}
+	EndGlobalSection
+EndGlobal
