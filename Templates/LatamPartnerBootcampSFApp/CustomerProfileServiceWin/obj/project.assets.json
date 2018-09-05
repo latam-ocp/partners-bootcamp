@@ -12123,11 +12123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileService/CustomerProfileService.csproj",
-      "projectName": "CustomerProfileService",
-      "projectPath": "/Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileService/CustomerProfileService.csproj",
+      "projectUniqueName": "/Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileServiceWin/CustomerProfileServiceWin.csproj",
+      "projectName": "CustomerProfileServiceWin",
+      "projectPath": "/Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileServiceWin/CustomerProfileServiceWin.csproj",
       "packagesPath": "/Users/gleissonbezerra/.nuget/packages/",
-      "outputPath": "/Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileService/obj",
+      "outputPath": "/Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileServiceWin/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

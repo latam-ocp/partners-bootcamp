@@ -3,7 +3,6 @@
 /Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileService/bin/Debug/netcoreapp2.1/CustomerProfileService.runtimeconfig.dev.json
 /Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileService/bin/Debug/netcoreapp2.1/CustomerProfileService.dll
 /Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileService/bin/Debug/netcoreapp2.1/CustomerProfileService.pdb
-/Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileService/obj/Debug/netcoreapp2.1/CustomerProfileService.csprojAssemblyReference.cache
 /Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileService/obj/Debug/netcoreapp2.1/CustomerProfileService.csproj.CoreCompileInputs.cache
 /Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileService/obj/Debug/netcoreapp2.1/CustomerProfileService.RazorAssemblyInfo.cache
 /Users/gleissonbezerra/Projects/partners-bootcamp/Templates/LatamPartnerBootcampSFApp/CustomerProfileService/obj/Debug/netcoreapp2.1/CustomerProfileService.RazorAssemblyInfo.cs
